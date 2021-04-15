@@ -6,3 +6,17 @@ Usage:
 First Run ExoD.ipynb  => emotion-detector-vid.py
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dependencies:
+- pip install numpy
+- pip install pandas
+- pip install tensorflow
+- pip install keras
+- pip install opencv-python
+  
+
+
+
+
+
